@@ -41,7 +41,7 @@ The goal of price prediction is for the machine to **predict an appropriate pric
 After performing modeling, the best model is **Random Forest** with a Training RMSE of 103.06 and a Test RMSE of 289.79.
 
 ## Market Segmentation
-Market Segmentation dilakukan menggunakan K - Means Clustering dengan nilai K = 6 (dari elbow method dan silhouette).
+Market Segmentation is performed using K-Means Clustering with a value of K = 6, determined through the elbow method and silhouette analysis.
 
 Then, six types of Airbnb listings with the target variable being "price" will be identified.
 
